@@ -40,7 +40,7 @@ body.site08-region-v5 .article-brand .mark{
   font-size:0!important;
 }
 body.site08-region-v5 .article-brand .mark::after{
-  content:"HARU";font-size:10px;font-weight:900;letter-spacing:.06em;
+  content:"LINK";font-size:10px;font-weight:900;letter-spacing:.06em;
 }
 
 /* =========================================================
